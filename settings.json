@@ -13,7 +13,7 @@
   "antilinkall": false,
   "autobio": true,
   "autoptv": false,
-  "autosong": false,
+  "autosong": true,
   "autoreply": false,
   "autosticker": false,
   "autovoice": true,
