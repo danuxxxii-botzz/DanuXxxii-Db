@@ -9,7 +9,7 @@
   "antibad": false,
   "antibadv2": false,
   "antidelete": false,
-  "autoreactsw": false,
+  "autoreactsw": true,
   "antilinkall": false,
   "autobio": true,
   "autoptv": false,
