@@ -3,7 +3,7 @@
   "autoread": false,
   "readchat": false,
   "anticall": false,
-  "autoreadsw": false,
+  "autoreadsw": true,
   "owneroff": false,
   "antibot": false,
   "antibad": false,
