@@ -358,5 +358,20 @@
     },
     "chatId": 6568032567,
     "date": 1761150372
+  },
+  {
+    "id": 620,
+    "type": "text",
+    "content": "/id https://t.me/DanuXxxiiBotz",
+    "fileId": null,
+    "from": {
+      "id": 6568032567,
+      "is_bot": false,
+      "first_name": "ＤａｎｕｚＺ 🕊️",
+      "username": "DanuXxxii",
+      "language_code": "en"
+    },
+    "chatId": 6568032567,
+    "date": 1761151902
   }
 ]
