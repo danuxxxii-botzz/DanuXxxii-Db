@@ -28,5 +28,20 @@
     },
     "chatId": 8125991862,
     "date": 1761128209
+  },
+  {
+    "id": 542,
+    "type": "text",
+    "content": "/menu",
+    "fileId": null,
+    "from": {
+      "id": 8125991862,
+      "is_bot": false,
+      "first_name": "ダ",
+      "username": "xh_clintonv",
+      "language_code": "en"
+    },
+    "chatId": 8125991862,
+    "date": 1761128216
   }
 ]
