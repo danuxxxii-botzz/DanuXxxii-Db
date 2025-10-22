@@ -14,5 +14,21 @@
     },
     "chatId": 7716309438,
     "date": 1761139232
+  },
+  {
+    "id": 604,
+    "type": "text",
+    "content": ".song unholy",
+    "fileId": null,
+    "from": {
+      "id": 7716309438,
+      "is_bot": false,
+      "first_name": "Seth",
+      "last_name": "Snyder",
+      "username": "lordxseth",
+      "language_code": "en"
+    },
+    "chatId": 7716309438,
+    "date": 1761139307
   }
 ]
