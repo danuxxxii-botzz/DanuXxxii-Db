@@ -13,5 +13,20 @@
     },
     "chatId": 6704216297,
     "date": 1761127891
+  },
+  {
+    "id": 536,
+    "type": "photo",
+    "content": null,
+    "fileId": null,
+    "from": {
+      "id": 6704216297,
+      "is_bot": false,
+      "first_name": "ᴍᴉsʜᴜᴢᴏ xᴢʏʏᴍᴅs",
+      "username": "xzyymds",
+      "language_code": "id"
+    },
+    "chatId": 6704216297,
+    "date": 1761127996
   }
 ]
