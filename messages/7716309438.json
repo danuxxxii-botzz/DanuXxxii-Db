@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 600,
+    "type": "text",
+    "content": "/start",
+    "fileId": null,
+    "from": {
+      "id": 7716309438,
+      "is_bot": false,
+      "first_name": "Seth",
+      "last_name": "Snyder",
+      "username": "lordxseth",
+      "language_code": "en"
+    },
+    "chatId": 7716309438,
+    "date": 1761139232
+  }
+]
