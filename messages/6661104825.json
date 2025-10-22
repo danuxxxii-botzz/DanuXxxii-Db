@@ -46,5 +46,21 @@
     },
     "chatId": 6661104825,
     "date": 1761152579
+  },
+  {
+    "id": 630,
+    "type": "text",
+    "content": ".song montagem batida",
+    "fileId": null,
+    "from": {
+      "id": 6661104825,
+      "is_bot": false,
+      "first_name": "Miah",
+      "last_name": "Calh",
+      "username": "NObitatyt",
+      "language_code": "en"
+    },
+    "chatId": 6661104825,
+    "date": 1761152760
   }
 ]
