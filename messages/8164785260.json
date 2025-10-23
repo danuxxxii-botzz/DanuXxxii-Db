@@ -12,5 +12,19 @@
     },
     "chatId": 8164785260,
     "date": 1761197121
+  },
+  {
+    "id": 685,
+    "type": "text",
+    "content": ".menu",
+    "fileId": null,
+    "from": {
+      "id": 8164785260,
+      "is_bot": false,
+      "first_name": "Rio⚠️",
+      "language_code": "en"
+    },
+    "chatId": 8164785260,
+    "date": 1761197148
   }
 ]
