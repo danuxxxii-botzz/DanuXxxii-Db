@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 664,
+    "type": "text",
+    "content": "/start",
+    "fileId": null,
+    "from": {
+      "id": 7529611504,
+      "is_bot": false,
+      "first_name": "THARU",
+      "last_name": "OFFICIAL ᥫ᭡💗🙂",
+      "language_code": "en"
+    },
+    "chatId": 7529611504,
+    "date": 1761191191
+  }
+]
