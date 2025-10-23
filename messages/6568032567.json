@@ -433,5 +433,20 @@
     },
     "chatId": 6568032567,
     "date": 1761193713
+  },
+  {
+    "id": 699,
+    "type": "text",
+    "content": "/song https://youtu.be/apeEf49g8GI?si=hQ4VCRTCsbLiOHYH",
+    "fileId": null,
+    "from": {
+      "id": 6568032567,
+      "is_bot": false,
+      "first_name": "ＤａｎｕｚＺ 🕊️",
+      "username": "DanuXxxii",
+      "language_code": "en"
+    },
+    "chatId": 6568032567,
+    "date": 1761198757
   }
 ]
