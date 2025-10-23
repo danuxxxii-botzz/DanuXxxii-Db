@@ -28,5 +28,20 @@
     },
     "chatId": 7529611504,
     "date": 1761191216
+  },
+  {
+    "id": 669,
+    "type": "text",
+    "content": ".song lelena",
+    "fileId": null,
+    "from": {
+      "id": 7529611504,
+      "is_bot": false,
+      "first_name": "THARU",
+      "last_name": "OFFICIAL ᥫ᭡💗🙂",
+      "language_code": "en"
+    },
+    "chatId": 7529611504,
+    "date": 1761191226
   }
 ]
