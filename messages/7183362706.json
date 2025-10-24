@@ -78,5 +78,21 @@
     },
     "chatId": 7183362706,
     "date": 1761310318
+  },
+  {
+    "id": 904,
+    "type": "text",
+    "content": ".system",
+    "fileId": null,
+    "from": {
+      "id": 7183362706,
+      "is_bot": false,
+      "first_name": "Ayooh",
+      "last_name": "XD",
+      "username": "ayooh_xd",
+      "language_code": "en"
+    },
+    "chatId": 7183362706,
+    "date": 1761310331
   }
 ]
