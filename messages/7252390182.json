@@ -42,5 +42,20 @@
     },
     "chatId": -1002580756171,
     "date": 1761276623
+  },
+  {
+    "id": 4311,
+    "type": "text",
+    "content": "Hari",
+    "fileId": null,
+    "from": {
+      "id": 7252390182,
+      "is_bot": false,
+      "first_name": "𝐃ɪ𝐍⍣𝐀 𝖝 @𝟗𝟗𝟗 🇱🇰",
+      "username": "crazydinabbh",
+      "language_code": "en"
+    },
+    "chatId": -1002580756171,
+    "date": 1761276677
   }
 ]
