@@ -28,5 +28,20 @@
     },
     "chatId": 8098344824,
     "date": 1761123776
+  },
+  {
+    "id": 4327,
+    "type": "text",
+    "content": "වැඩද",
+    "fileId": null,
+    "from": {
+      "id": 8098344824,
+      "is_bot": false,
+      "first_name": "H",
+      "last_name": "B",
+      "language_code": "en"
+    },
+    "chatId": -1002580756171,
+    "date": 1761277086
   }
 ]
