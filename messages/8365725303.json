@@ -13,5 +13,20 @@
     },
     "chatId": 8365725303,
     "date": 1761370942
+  },
+  {
+    "id": 938,
+    "type": "text",
+    "content": "Commands",
+    "fileId": null,
+    "from": {
+      "id": 8365725303,
+      "is_bot": false,
+      "first_name": "Treasure",
+      "last_name": "Anyanwu",
+      "language_code": "en"
+    },
+    "chatId": 8365725303,
+    "date": 1761371021
   }
 ]
