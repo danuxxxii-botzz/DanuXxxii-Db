@@ -26,5 +26,19 @@
     },
     "chatId": 7527607227,
     "date": 1761427038
+  },
+  {
+    "id": 954,
+    "type": "text",
+    "content": ".sticker",
+    "fileId": null,
+    "from": {
+      "id": 7527607227,
+      "is_bot": false,
+      "first_name": "TWO THOUSAND M5",
+      "language_code": "fr"
+    },
+    "chatId": 7527607227,
+    "date": 1761427051
   }
 ]
