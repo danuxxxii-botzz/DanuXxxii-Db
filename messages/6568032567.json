@@ -1153,5 +1153,20 @@
     },
     "chatId": 6568032567,
     "date": 1761406502
+  },
+  {
+    "id": 993,
+    "type": "text",
+    "content": "https://vm.tiktok.com/ZSHvsLBXpwSQC-fxwNo/ This post is shared via TikTok Lite. Download TikTok Lite to enjoy more posts:  https://www.tiktok.com/tiktoklite",
+    "fileId": null,
+    "from": {
+      "id": 6568032567,
+      "is_bot": false,
+      "first_name": "ＤａｎｕｚＺ 🕊️",
+      "username": "DanuXxxii",
+      "language_code": "en"
+    },
+    "chatId": 6568032567,
+    "date": 1761469821
   }
 ]
