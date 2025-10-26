@@ -12,5 +12,19 @@
     },
     "chatId": 6207257619,
     "date": 1761487779
+  },
+  {
+    "id": 1018,
+    "type": "text",
+    "content": "Id",
+    "fileId": null,
+    "from": {
+      "id": 6207257619,
+      "is_bot": false,
+      "first_name": "Dørēmøn ™",
+      "language_code": "en"
+    },
+    "chatId": 6207257619,
+    "date": 1761487807
   }
 ]
