@@ -58,5 +58,20 @@
     },
     "chatId": 8421586422,
     "date": 1761186397
+  },
+  {
+    "id": 1009,
+    "type": "text",
+    "content": ".system",
+    "fileId": null,
+    "from": {
+      "id": 8421586422,
+      "is_bot": false,
+      "first_name": "Rehan",
+      "last_name": "Geeneth",
+      "language_code": "en"
+    },
+    "chatId": 8421586422,
+    "date": 1761471225
   }
 ]
