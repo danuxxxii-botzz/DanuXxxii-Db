@@ -1198,5 +1198,20 @@
     },
     "chatId": 6568032567,
     "date": 1761469890
+  },
+  {
+    "id": 1004,
+    "type": "text",
+    "content": "https://vm.tiktok.com/ZSHvs84q47c4y-fZBMo/",
+    "fileId": null,
+    "from": {
+      "id": 6568032567,
+      "is_bot": false,
+      "first_name": "ＤａｎｕｚＺ 🕊️",
+      "username": "DanuXxxii",
+      "language_code": "en"
+    },
+    "chatId": 6568032567,
+    "date": 1761469911
   }
 ]
