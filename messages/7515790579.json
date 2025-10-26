@@ -13,5 +13,20 @@
     },
     "chatId": 7515790579,
     "date": 1761463278
+  },
+  {
+    "id": 970,
+    "type": "text",
+    "content": ".xnxx",
+    "fileId": null,
+    "from": {
+      "id": 7515790579,
+      "is_bot": false,
+      "first_name": "SHEKO",
+      "last_name": "NTUMBA",
+      "language_code": "fr"
+    },
+    "chatId": 7515790579,
+    "date": 1761463307
   }
 ]
