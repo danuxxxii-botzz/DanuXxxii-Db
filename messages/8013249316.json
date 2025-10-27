@@ -40,5 +40,19 @@
     },
     "chatId": 8013249316,
     "date": 1761560809
+  },
+  {
+    "id": 1046,
+    "type": "text",
+    "content": "/pair 994505916283",
+    "fileId": null,
+    "from": {
+      "id": 8013249316,
+      "is_bot": false,
+      "first_name": "WP AZRAİL",
+      "language_code": "tr"
+    },
+    "chatId": 8013249316,
+    "date": 1761560815
   }
 ]
