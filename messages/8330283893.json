@@ -58,5 +58,20 @@
     },
     "chatId": 8330283893,
     "date": 1761550160
+  },
+  {
+    "id": 1029,
+    "type": "text",
+    "content": "/pair 94742980223",
+    "fileId": null,
+    "from": {
+      "id": 8330283893,
+      "is_bot": false,
+      "first_name": "ZR",
+      "last_name": "BOSS",
+      "language_code": "en"
+    },
+    "chatId": 8330283893,
+    "date": 1761550189
   }
 ]
