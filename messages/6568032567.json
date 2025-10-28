@@ -1993,5 +1993,20 @@
     },
     "chatId": 6568032567,
     "date": 1761669491
+  },
+  {
+    "id": 1277,
+    "type": "text",
+    "content": "/menu",
+    "fileId": null,
+    "from": {
+      "id": 6568032567,
+      "is_bot": false,
+      "first_name": "ＤａｎｕｚＺ 🕊️",
+      "username": "DanuXxxii",
+      "language_code": "en"
+    },
+    "chatId": 6568032567,
+    "date": 1761669498
   }
 ]
