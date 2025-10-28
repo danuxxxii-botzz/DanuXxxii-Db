@@ -1738,5 +1738,20 @@
     },
     "chatId": 6568032567,
     "date": 1761666766
+  },
+  {
+    "id": 1225,
+    "type": "text",
+    "content": ".apk whatsapp",
+    "fileId": null,
+    "from": {
+      "id": 6568032567,
+      "is_bot": false,
+      "first_name": "ＤａｎｕｚＺ 🕊️",
+      "username": "DanuXxxii",
+      "language_code": "en"
+    },
+    "chatId": 6568032567,
+    "date": 1761667675
   }
 ]
