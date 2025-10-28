@@ -1603,5 +1603,20 @@
     },
     "chatId": 6568032567,
     "date": 1761665550
+  },
+  {
+    "id": 1198,
+    "type": "text",
+    "content": "/mf https://www.mediafire.com/file/lva294beolblhua/DarkBot_%2528share%2529.zip",
+    "fileId": null,
+    "from": {
+      "id": 6568032567,
+      "is_bot": false,
+      "first_name": "ＤａｎｕｚＺ 🕊️",
+      "username": "DanuXxxii",
+      "language_code": "en"
+    },
+    "chatId": 6568032567,
+    "date": 1761665649
   }
 ]
