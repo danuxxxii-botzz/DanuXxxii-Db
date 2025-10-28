@@ -62,5 +62,21 @@
     },
     "chatId": 8225577504,
     "date": 1761566891
+  },
+  {
+    "id": 1096,
+    "type": "text",
+    "content": "• Total Invite 0/10 User(s) \n\n💌 Your Invite Link = https://t.me/TemporaryNumberAiBot?start=Bot51830637\n\n📝 Complete 10 Invite And Use Lifetime",
+    "fileId": null,
+    "from": {
+      "id": 8225577504,
+      "is_bot": false,
+      "first_name": "Heat",
+      "last_name": "X",
+      "username": "Heat_X01",
+      "language_code": "en"
+    },
+    "chatId": 8225577504,
+    "date": 1761641731
   }
 ]
