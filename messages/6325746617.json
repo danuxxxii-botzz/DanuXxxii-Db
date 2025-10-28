@@ -12,5 +12,19 @@
     },
     "chatId": -1002580756171,
     "date": 1761654854
+  },
+  {
+    "id": 4378,
+    "type": "text",
+    "content": "hi pko",
+    "fileId": null,
+    "from": {
+      "id": 6325746617,
+      "is_bot": false,
+      "first_name": "ɪƚ\"ȥ ᴍᴇ ʙᴡɴ: ɴɪᴋᴋᴀ xᴅ ヤ",
+      "username": "nikka_bbh"
+    },
+    "chatId": -1002580756171,
+    "date": 1761654859
   }
 ]
