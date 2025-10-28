@@ -1693,5 +1693,20 @@
     },
     "chatId": 6568032567,
     "date": 1761666480
+  },
+  {
+    "id": 1216,
+    "type": "text",
+    "content": ".gd case \"gdrive\":\ncase \"gd\": {\n    const fg = require('api-dylux');\n    const fs = require('fs');\n    const path = require('path');\n\n    let input = body?.trim();\n    if (!input) return await ctx.reply(\"📎 Please provide a Google Drive link!\\nExample: /gdrive https://drive.google.com/file/d/XXXXX/view\");\n\n    await ctx.reply(\"☁️ Fetching Google Drive file info...\");\n\n    try {\n        const res = await fg.GDriveDl(input);\n\n        if (!res || !res.downloadUrl) {\n            return await ctx.reply(\"❌ Failed to fetch Google Drive file info. Please check your link.\");\n        }\n\n        const message = `\n乂 G O O G L E - D R I V E - D O W N L O A D\n\n◦ File Name: ${res.fileName}\n◦ File Size: ${res.fileSize}\n◦ File Type: ${res.mimetype}\n`;\n\n        // Check file size (~50MB limit)\n        const MAX_SIZE_MB = 50;\n        let sendDirect = false;\n        const fileSizeMatch = res.fileSize.match(/([\\d.]+)\\s*(KB|MB|GB)/i);\n\n        if (fileSizeMatch) {\n            const size = parseFloat(fileSizeMatch[1]);\n            const unit = fileSizeMatch[2].toUpperCase();\n            if (unit === \"KB\" || (unit === \"MB\" && size <= MAX_SIZE_MB)) sendDirect = true;\n        }\n\n        if (sendDirect) {\n            const filePath = path.join(__dirname, res.fileName.replace(/[\\/\\\\?%*:|\"<>]/g, \"_\"));\n            const fileRes = await require(\"axios\").get(res.downloadUrl, { responseType: \"stream\" });\n            const writer = fs.createWriteStream(filePath);\n            fileRes.data.pipe(writer);\n\n            await new Promise((resolve, reject) => {\n                writer.on(\"finish\", resolve);\n                writer.on(\"error\", reject);\n            });\n\n            await ctx.replyWithDocument({ source: filePath, filename: res.fileName, mimetype: res.mimetype }, { caption: message });\n            fs.unlinkSync(filePath);\n        } else {\n            await ctx.reply(${message}\\n⬇️ Download URL: ${res.downloadUrl});\n        }\n\n    } catch (e) {\n        console.error(e);\n        await ctx.reply(\"⚠️ Error fetching or sending Google Drive file. Please try again later.\");\n    }\n\n    break;\n}",
+    "fileId": null,
+    "from": {
+      "id": 6568032567,
+      "is_bot": false,
+      "first_name": "ＤａｎｕｚＺ 🕊️",
+      "username": "DanuXxxii",
+      "language_code": "en"
+    },
+    "chatId": 6568032567,
+    "date": 1761666714
   }
 ]
