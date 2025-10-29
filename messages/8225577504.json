@@ -270,5 +270,21 @@
     },
     "chatId": 8225577504,
     "date": 1761742363
+  },
+  {
+    "id": 1359,
+    "type": "text",
+    "content": "/img hacker logo",
+    "fileId": null,
+    "from": {
+      "id": 8225577504,
+      "is_bot": false,
+      "first_name": "Heat",
+      "last_name": "X",
+      "username": "Heat_X01",
+      "language_code": "en"
+    },
+    "chatId": 8225577504,
+    "date": 1761742391
   }
 ]
