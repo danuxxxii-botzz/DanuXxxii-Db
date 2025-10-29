@@ -208,5 +208,19 @@
     },
     "chatId": 8369958910,
     "date": 1761749116
+  },
+  {
+    "id": 1448,
+    "type": "text",
+    "content": ".pls-ai tu ne connais pas leur nom?",
+    "fileId": null,
+    "from": {
+      "id": 8369958910,
+      "is_bot": false,
+      "first_name": "Y U N I T O",
+      "language_code": "fr"
+    },
+    "chatId": 8369958910,
+    "date": 1761749137
   }
 ]
