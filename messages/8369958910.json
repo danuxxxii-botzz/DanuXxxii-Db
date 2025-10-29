@@ -26,5 +26,19 @@
     },
     "chatId": 8369958910,
     "date": 1761748399
+  },
+  {
+    "id": 1416,
+    "type": "text",
+    "content": ".tagall",
+    "fileId": null,
+    "from": {
+      "id": 8369958910,
+      "is_bot": false,
+      "first_name": "Y U N I T O",
+      "language_code": "fr"
+    },
+    "chatId": 8369958910,
+    "date": 1761748405
   }
 ]
