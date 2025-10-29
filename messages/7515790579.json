@@ -283,5 +283,20 @@
     },
     "chatId": 7515790579,
     "date": 1761776054
+  },
+  {
+    "id": 1509,
+    "type": "text",
+    "content": "/video https://www.tiktok.com/@tu_ris_tu_perds221/video/7561477186973109526?_r=1&u_code=emie5d064lg71f&preview_pb=0&sharer_language=fr&_d=emie4f186ak9m1&share_item_id=7561477186973109526&source=h5_m&timestamp=1761774386&user_id=7556371376140583944&sec_user_id=MS4wLjABAAAAN9Uf9TBZgXuQt05nqn6pLjxTSWt7SUudnGo5jz0gIq5YMD7oyq2aqkYySNeyyVzj&item_author_type=2&social_share_type=0&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7556371393873823495&share_link_id=6714ab10-bdef-42d8-afb1-7d731b470d46&share_app_id=1233&ugbiz_name=MAIN&ug_btm=b2001&link_reflow_popup_iteration_sharer=%7B%22click_empty_to_play%22%3A1%2C%22dynamic_cover%22%3A1%2C%22follow_to_play_duration%22%3A-1.0%2C%22profile_clickable%22%3A1%7D&enable_checksum=1",
+    "fileId": null,
+    "from": {
+      "id": 7515790579,
+      "is_bot": false,
+      "first_name": "SHEKO",
+      "last_name": "NTUMBA",
+      "language_code": "fr"
+    },
+    "chatId": 7515790579,
+    "date": 1761776118
   }
 ]
