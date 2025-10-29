@@ -43,5 +43,20 @@
     },
     "chatId": 1954095496,
     "date": 1761745815
+  },
+  {
+    "id": 1396,
+    "type": "text",
+    "content": "/ping",
+    "fileId": null,
+    "from": {
+      "id": 1954095496,
+      "is_bot": false,
+      "first_name": "𓆩DEX×-×SAM×-× CHAUDHARI𓆪",
+      "username": "Dex_sam_07",
+      "language_code": "en"
+    },
+    "chatId": 1954095496,
+    "date": 1761745822
   }
 ]
