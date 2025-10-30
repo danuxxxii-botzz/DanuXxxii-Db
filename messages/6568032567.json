@@ -2113,5 +2113,20 @@
     },
     "chatId": 6568032567,
     "date": 1761830675
+  },
+  {
+    "id": 1569,
+    "type": "text",
+    "content": ".mfire https://www.mediafire.com/file/ucbzmmd3xt6q2vk/KAMIYA-CRASH_6.0.0.zip/file",
+    "fileId": null,
+    "from": {
+      "id": 6568032567,
+      "is_bot": false,
+      "first_name": "ＤａｎｕｚＺ 🕊️",
+      "username": "DanuXxxii",
+      "language_code": "en"
+    },
+    "chatId": 6568032567,
+    "date": 1761835695
   }
 ]
