@@ -545,5 +545,21 @@
     },
     "chatId": 8421586422,
     "date": 1762005581
+  },
+  {
+    "id": 1602,
+    "type": "text",
+    "content": ".song https://youtu.be/yeb5T-w2VLs?si=OibIrpmFH5o04wl-",
+    "fileId": null,
+    "from": {
+      "id": 8421586422,
+      "is_bot": false,
+      "first_name": "Rehan",
+      "last_name": "Geeneth",
+      "username": "Geeneth_Bro",
+      "language_code": "en"
+    },
+    "chatId": 8421586422,
+    "date": 1762006262
   }
 ]
