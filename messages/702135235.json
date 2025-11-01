@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 1575,
+    "type": "text",
+    "content": "/start",
+    "fileId": null,
+    "from": {
+      "id": 702135235,
+      "is_bot": false,
+      "first_name": "Cyril",
+      "last_name": "Popzz",
+      "language_code": "en"
+    },
+    "chatId": 702135235,
+    "date": 1761995648
+  }
+]
