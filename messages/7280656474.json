@@ -54,5 +54,19 @@
     },
     "chatId": 7280656474,
     "date": 1762026676
+  },
+  {
+    "id": 1648,
+    "type": "text",
+    "content": "/xnxx parasited",
+    "fileId": null,
+    "from": {
+      "id": 7280656474,
+      "is_bot": false,
+      "first_name": "Somreal",
+      "language_code": "en"
+    },
+    "chatId": 7280656474,
+    "date": 1762026854
   }
 ]
