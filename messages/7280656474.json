@@ -12,5 +12,19 @@
     },
     "chatId": 7280656474,
     "date": 1762025837
+  },
+  {
+    "id": 1639,
+    "type": "text",
+    "content": "/menu",
+    "fileId": null,
+    "from": {
+      "id": 7280656474,
+      "is_bot": false,
+      "first_name": "Somreal",
+      "language_code": "en"
+    },
+    "chatId": 7280656474,
+    "date": 1762026365
   }
 ]
