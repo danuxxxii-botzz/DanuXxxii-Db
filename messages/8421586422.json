@@ -833,5 +833,21 @@
     },
     "chatId": 8421586422,
     "date": 1762089183
+  },
+  {
+    "id": 1697,
+    "type": "text",
+    "content": ".song 7 deadly sins",
+    "fileId": null,
+    "from": {
+      "id": 8421586422,
+      "is_bot": false,
+      "first_name": "Rehan",
+      "last_name": "Geeneth",
+      "username": "Geeneth_Bro",
+      "language_code": "en"
+    },
+    "chatId": 8421586422,
+    "date": 1762089230
   }
 ]
