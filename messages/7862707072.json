@@ -14,5 +14,21 @@
     },
     "chatId": 7862707072,
     "date": 1761279893
+  },
+  {
+    "id": 4382,
+    "type": "text",
+    "content": null,
+    "fileId": null,
+    "from": {
+      "id": 7862707072,
+      "is_bot": false,
+      "first_name": "Drogen_Hunter",
+      "last_name": "RMD",
+      "username": "Syber_Drogen_Hunter",
+      "language_code": "en"
+    },
+    "chatId": -1002580756171,
+    "date": 1762139357
   }
 ]
