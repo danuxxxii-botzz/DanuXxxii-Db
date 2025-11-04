@@ -28,5 +28,20 @@
     },
     "chatId": 8014376501,
     "date": 1762185792
+  },
+  {
+    "id": 1737,
+    "type": "text",
+    "content": "/start",
+    "fileId": null,
+    "from": {
+      "id": 8014376501,
+      "is_bot": false,
+      "first_name": "Gayan",
+      "last_name": "Danidu",
+      "language_code": "en"
+    },
+    "chatId": 8014376501,
+    "date": 1762249333
   }
 ]
