@@ -2188,5 +2188,20 @@
     },
     "chatId": 6568032567,
     "date": 1762179212
+  },
+  {
+    "id": 1730,
+    "type": "text",
+    "content": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG93VGo0Szh6WnZUMHg5T2NrMy1TNGEzVk5Jd3xBQ3Jtc0tuNDRfTmhsMUdZLXFoUnAxY1l0ZDlpcnlZLWlPcm4xQy1BalQyRkwxMkhpN0hQdy1rQzNzQXVHUVgxRlZXZXdEWHZpdkVOSmY3aWNIR3Z5d3pDWWcyczI2X3ZqamliYUpsV0hJTjRzb2NMNVFKRHM4VQ&q=https%3A%2F%2Ft.me%2Fc%2F1845614944%2F4&v=9p7GcToOhaw",
+    "fileId": null,
+    "from": {
+      "id": 6568032567,
+      "is_bot": false,
+      "first_name": "ＤａｎｕｚＺ 🕊️",
+      "username": "DanuXxxii",
+      "language_code": "en"
+    },
+    "chatId": 6568032567,
+    "date": 1762234540
   }
 ]
