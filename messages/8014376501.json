@@ -30,9 +30,9 @@
     "date": 1762185792
   },
   {
-    "id": 1737,
+    "id": 1743,
     "type": "text",
-    "content": "/start",
+    "content": "/menu",
     "fileId": null,
     "from": {
       "id": 8014376501,
@@ -42,6 +42,6 @@
       "language_code": "en"
     },
     "chatId": 8014376501,
-    "date": 1762249333
+    "date": 1762249416
   }
 ]
