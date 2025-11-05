@@ -2488,5 +2488,20 @@
     },
     "chatId": 6568032567,
     "date": 1762353968
+  },
+  {
+    "id": 1910,
+    "type": "text",
+    "content": ".exc npm i express\nDefinitelyTyped icon, indicating that this package has TypeScript declarations provided by the separate @types/express package",
+    "fileId": null,
+    "from": {
+      "id": 6568032567,
+      "is_bot": false,
+      "first_name": "ＤａｎｕｚＺ 🕊️",
+      "username": "DanuXxxii",
+      "language_code": "en"
+    },
+    "chatId": 6568032567,
+    "date": 1762354046
   }
 ]
