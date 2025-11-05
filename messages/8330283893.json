@@ -163,5 +163,20 @@
     },
     "chatId": 8330283893,
     "date": 1762328494
+  },
+  {
+    "id": 1871,
+    "type": "text",
+    "content": "/pair 94742980223",
+    "fileId": null,
+    "from": {
+      "id": 8330283893,
+      "is_bot": false,
+      "first_name": "⚔🔱රියල් හැකර් සකුරා🔱⚔➝🪀",
+      "last_name": "ZƦ BooS",
+      "language_code": "en"
+    },
+    "chatId": 8330283893,
+    "date": 1762328545
   }
 ]
