@@ -110,5 +110,21 @@
     },
     "chatId": 7795923623,
     "date": 1762354332
+  },
+  {
+    "id": 2045,
+    "type": "text",
+    "content": ".setting",
+    "fileId": null,
+    "from": {
+      "id": 7795923623,
+      "is_bot": false,
+      "first_name": "Rehan",
+      "last_name": "Geeneth",
+      "username": "Geenethofficial",
+      "language_code": "en"
+    },
+    "chatId": 7795923623,
+    "date": 1762953573
   }
 ]
