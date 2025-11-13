@@ -46,5 +46,21 @@
     },
     "chatId": 8054922586,
     "date": 1763031842
+  },
+  {
+    "id": 2066,
+    "type": "text",
+    "content": ".xnxx",
+    "fileId": null,
+    "from": {
+      "id": 8054922586,
+      "is_bot": false,
+      "first_name": "Induwara",
+      "last_name": "Deshan",
+      "username": "gginduwaradeshan",
+      "language_code": "en"
+    },
+    "chatId": 8054922586,
+    "date": 1763032196
   }
 ]
