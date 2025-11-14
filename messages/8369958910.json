@@ -334,5 +334,19 @@
     },
     "chatId": 8369958910,
     "date": 1763123028
+  },
+  {
+    "id": 2084,
+    "type": "text",
+    "content": "/groupmute",
+    "fileId": null,
+    "from": {
+      "id": 8369958910,
+      "is_bot": false,
+      "first_name": "Y U N I T O",
+      "language_code": "fr"
+    },
+    "chatId": 8369958910,
+    "date": 1763123059
   }
 ]
