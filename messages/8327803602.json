@@ -205,5 +205,21 @@
     },
     "chatId": 8327803602,
     "date": 1763102892
+  },
+  {
+    "id": 2079,
+    "type": "text",
+    "content": ".tourl",
+    "fileId": null,
+    "from": {
+      "id": 8327803602,
+      "is_bot": false,
+      "first_name": "Danu",
+      "last_name": "Zz",
+      "username": "DanuXz",
+      "language_code": "en"
+    },
+    "chatId": 8327803602,
+    "date": 1763103783
   }
 ]
