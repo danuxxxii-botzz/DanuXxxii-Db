@@ -190,5 +190,21 @@
     },
     "chatId": 756945943,
     "date": 1763291139
+  },
+  {
+    "id": 2137,
+    "type": "text",
+    "content": ".apk remini",
+    "fileId": null,
+    "from": {
+      "id": 756945943,
+      "is_bot": false,
+      "first_name": "RIDWAN",
+      "last_name": "ABDULSALAM",
+      "username": "opeyeminaija",
+      "language_code": "en"
+    },
+    "chatId": 756945943,
+    "date": 1763300168
   }
 ]
