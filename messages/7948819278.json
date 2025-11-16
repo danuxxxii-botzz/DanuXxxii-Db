@@ -13,5 +13,20 @@
     },
     "chatId": 7948819278,
     "date": 1763266589
+  },
+  {
+    "id": 2093,
+    "type": "text",
+    "content": "/menu",
+    "fileId": null,
+    "from": {
+      "id": 7948819278,
+      "is_bot": false,
+      "first_name": "szxenn",
+      "username": "szxenn",
+      "language_code": "id"
+    },
+    "chatId": 7948819278,
+    "date": 1763266593
   }
 ]
