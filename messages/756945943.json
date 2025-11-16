@@ -62,5 +62,21 @@
     },
     "chatId": 756945943,
     "date": 1763290741
+  },
+  {
+    "id": 2107,
+    "type": "text",
+    "content": ".apk",
+    "fileId": null,
+    "from": {
+      "id": 756945943,
+      "is_bot": false,
+      "first_name": "RIDWAN",
+      "last_name": "ABDULSALAM",
+      "username": "opeyeminaija",
+      "language_code": "en"
+    },
+    "chatId": 756945943,
+    "date": 1763290746
   }
 ]
