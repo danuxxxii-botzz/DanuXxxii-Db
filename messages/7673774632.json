@@ -178,5 +178,20 @@
     },
     "chatId": 7673774632,
     "date": 1763750275
+  },
+  {
+    "id": 2190,
+    "type": "text",
+    "content": "/xnxx mms",
+    "fileId": null,
+    "from": {
+      "id": 7673774632,
+      "is_bot": false,
+      "first_name": "King",
+      "last_name": "Suvo",
+      "language_code": "en"
+    },
+    "chatId": 7673774632,
+    "date": 1763750295
   }
 ]
