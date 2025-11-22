@@ -54,5 +54,19 @@
     },
     "chatId": -1002580756171,
     "date": 1763830758
+  },
+  {
+    "id": 4412,
+    "type": "text",
+    "content": "/song soyure",
+    "fileId": null,
+    "from": {
+      "id": 6890505041,
+      "is_bot": false,
+      "first_name": "么 𝙁𝙞𝙭𝙯𝙚𝙧𝙓",
+      "username": "FixzerX"
+    },
+    "chatId": -1002580756171,
+    "date": 1763830770
   }
 ]
