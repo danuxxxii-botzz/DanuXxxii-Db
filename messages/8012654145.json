@@ -72,5 +72,20 @@
     },
     "chatId": -1002580756171,
     "date": 1763830977
+  },
+  {
+    "id": 4422,
+    "type": "text",
+    "content": "/start@DanuXxxiiBotz_bot",
+    "fileId": null,
+    "from": {
+      "id": 8012654145,
+      "is_bot": false,
+      "first_name": "Raviyq",
+      "last_name": "Boy",
+      "language_code": "en"
+    },
+    "chatId": -1002580756171,
+    "date": 1763830982
   }
 ]
