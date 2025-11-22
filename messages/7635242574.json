@@ -12,5 +12,20 @@
     },
     "chatId": -1002580756171,
     "date": 1763830675
+  },
+  {
+    "id": 2205,
+    "type": "text",
+    "content": "/start",
+    "fileId": null,
+    "from": {
+      "id": 7635242574,
+      "is_bot": false,
+      "first_name": "Yasas Dileepa",
+      "username": "yasasdileepa",
+      "language_code": "en"
+    },
+    "chatId": 7635242574,
+    "date": 1763830697
   }
 ]
