@@ -26,5 +26,19 @@
     },
     "chatId": -1003375002650,
     "date": 1763892902
+  },
+  {
+    "id": 14,
+    "type": "photo",
+    "content": null,
+    "fileId": null,
+    "from": {
+      "id": 1599924529,
+      "is_bot": false,
+      "first_name": "FIRMAN",
+      "username": "firmanxdmoddd"
+    },
+    "chatId": -1003375002650,
+    "date": 1763911632
   }
 ]
