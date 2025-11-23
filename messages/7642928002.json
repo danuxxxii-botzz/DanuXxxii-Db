@@ -148,5 +148,20 @@
     },
     "chatId": -1002580756171,
     "date": 1763927921
+  },
+  {
+    "id": 4442,
+    "type": "text",
+    "content": "@crazydinabbh admin dpn bug botla gnn",
+    "fileId": null,
+    "from": {
+      "id": 7642928002,
+      "is_bot": false,
+      "first_name": "ᴛʜᴀʀɪɴᴅᴜ",
+      "last_name": "ᴅɪʟʀᴜ",
+      "username": "crazydafa"
+    },
+    "chatId": -1002580756171,
+    "date": 1763927946
   }
 ]
