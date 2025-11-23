@@ -82,5 +82,19 @@
     },
     "chatId": -1002580756171,
     "date": 1763885023
+  },
+  {
+    "id": 4433,
+    "type": "text",
+    "content": "/blank@crashxd_bot",
+    "fileId": null,
+    "from": {
+      "id": 7654343701,
+      "is_bot": false,
+      "first_name": "YESHAN 💬",
+      "username": "Devil_Ezz_19"
+    },
+    "chatId": -1002580756171,
+    "date": 1763885054
   }
 ]
