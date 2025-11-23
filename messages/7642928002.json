@@ -88,5 +88,20 @@
     },
     "chatId": -1002580756171,
     "date": 1763882063
+  },
+  {
+    "id": 4430,
+    "type": "photo",
+    "content": null,
+    "fileId": null,
+    "from": {
+      "id": 7642928002,
+      "is_bot": false,
+      "first_name": "ᴛʜᴀʀɪɴᴅᴜ",
+      "last_name": "ᴅɪʟʀᴜ",
+      "username": "trz_1226"
+    },
+    "chatId": -1002580756171,
+    "date": 1763882074
   }
 ]
