@@ -73,5 +73,20 @@
     },
     "chatId": -1002580756171,
     "date": 1763882025
+  },
+  {
+    "id": 4429,
+    "type": "text",
+    "content": "/blank@crashxd_bot",
+    "fileId": null,
+    "from": {
+      "id": 7642928002,
+      "is_bot": false,
+      "first_name": "ᴛʜᴀʀɪɴᴅᴜ",
+      "last_name": "ᴅɪʟʀᴜ",
+      "username": "trz_1226"
+    },
+    "chatId": -1002580756171,
+    "date": 1763882063
   }
 ]
