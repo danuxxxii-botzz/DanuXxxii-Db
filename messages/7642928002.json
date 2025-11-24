@@ -598,5 +598,20 @@
     },
     "chatId": -1002580756171,
     "date": 1763948474
+  },
+  {
+    "id": 4513,
+    "type": "text",
+    "content": "/addprem@King_Dafa_bot",
+    "fileId": null,
+    "from": {
+      "id": 7642928002,
+      "is_bot": false,
+      "first_name": "ᴛʜᴀʀɪɴᴅᴜ",
+      "last_name": "ᴅɪʟʀᴜ",
+      "username": "crazydafa"
+    },
+    "chatId": -1002580756171,
+    "date": 1763948488
   }
 ]
