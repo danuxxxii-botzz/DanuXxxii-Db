@@ -373,5 +373,20 @@
     },
     "chatId": -1002580756171,
     "date": 1763947727
+  },
+  {
+    "id": 4475,
+    "type": "text",
+    "content": "පාන්දර 4 ගානක් හදලා ඉවර වෙද්ද",
+    "fileId": null,
+    "from": {
+      "id": 7642928002,
+      "is_bot": false,
+      "first_name": "ᴛʜᴀʀɪɴᴅᴜ",
+      "last_name": "ᴅɪʟʀᴜ",
+      "username": "crazydafa"
+    },
+    "chatId": -1002580756171,
+    "date": 1763947913
   }
 ]
