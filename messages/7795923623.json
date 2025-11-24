@@ -382,5 +382,21 @@
     },
     "chatId": 7795923623,
     "date": 1763969611
+  },
+  {
+    "id": 2252,
+    "type": "text",
+    "content": ".song far mario",
+    "fileId": null,
+    "from": {
+      "id": 7795923623,
+      "is_bot": false,
+      "first_name": "Rehan",
+      "last_name": "Geeneth",
+      "username": "Geenethofficial",
+      "language_code": "en"
+    },
+    "chatId": 7795923623,
+    "date": 1763969736
   }
 ]
