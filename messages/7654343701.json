@@ -334,5 +334,19 @@
     },
     "chatId": -1002580756171,
     "date": 1763948549
+  },
+  {
+    "id": 4528,
+    "type": "text",
+    "content": "නැ 😒",
+    "fileId": null,
+    "from": {
+      "id": 7654343701,
+      "is_bot": false,
+      "first_name": "YESHAN 💬",
+      "username": "Devil_Ezz_19"
+    },
+    "chatId": -1002580756171,
+    "date": 1763948561
   }
 ]
