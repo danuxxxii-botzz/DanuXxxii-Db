@@ -180,5 +180,19 @@
     },
     "chatId": -1002580756171,
     "date": 1763947926
+  },
+  {
+    "id": 4480,
+    "type": "text",
+    "content": "Vadink da ova",
+    "fileId": null,
+    "from": {
+      "id": 7654343701,
+      "is_bot": false,
+      "first_name": "YESHAN 💬",
+      "username": "Devil_Ezz_19"
+    },
+    "chatId": -1002580756171,
+    "date": 1763947939
   }
 ]
