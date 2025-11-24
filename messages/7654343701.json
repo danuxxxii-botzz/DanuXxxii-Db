@@ -236,5 +236,19 @@
     },
     "chatId": -1002580756171,
     "date": 1763948007
+  },
+  {
+    "id": 4490,
+    "type": "text",
+    "content": "Parana number valata vada",
+    "fileId": null,
+    "from": {
+      "id": 7654343701,
+      "is_bot": false,
+      "first_name": "YESHAN 💬",
+      "username": "Devil_Ezz_19"
+    },
+    "chatId": -1002580756171,
+    "date": 1763948022
   }
 ]
