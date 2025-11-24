@@ -478,5 +478,20 @@
     },
     "chatId": -1002580756171,
     "date": 1763948007
+  },
+  {
+    "id": 4489,
+    "type": "text",
+    "content": "කැරි වැඩ",
+    "fileId": null,
+    "from": {
+      "id": 7642928002,
+      "is_bot": false,
+      "first_name": "ᴛʜᴀʀɪɴᴅᴜ",
+      "last_name": "ᴅɪʟʀᴜ",
+      "username": "crazydafa"
+    },
+    "chatId": -1002580756171,
+    "date": 1763948014
   }
 ]
