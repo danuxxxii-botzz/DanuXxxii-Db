@@ -87,5 +87,20 @@
     },
     "chatId": -1002580756171,
     "date": 1763947623
+  },
+  {
+    "id": 4478,
+    "type": "text",
+    "content": "/SpamVn@King_Dafa_bot",
+    "fileId": null,
+    "from": {
+      "id": 7635242574,
+      "is_bot": false,
+      "first_name": "Yasas Dileepa",
+      "username": "yasasdileepa",
+      "language_code": "en"
+    },
+    "chatId": -1002580756171,
+    "date": 1763947929
   }
 ]
