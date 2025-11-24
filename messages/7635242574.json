@@ -57,5 +57,20 @@
     },
     "chatId": 7635242574,
     "date": 1763830753
+  },
+  {
+    "id": 4464,
+    "type": "text",
+    "content": "/blank@crashxd_bot",
+    "fileId": null,
+    "from": {
+      "id": 7635242574,
+      "is_bot": false,
+      "first_name": "Yasas Dileepa",
+      "username": "yasasdileepa",
+      "language_code": "en"
+    },
+    "chatId": -1002580756171,
+    "date": 1763947609
   }
 ]
