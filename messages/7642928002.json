@@ -463,5 +463,20 @@
     },
     "chatId": -1002580756171,
     "date": 1763947998
+  },
+  {
+    "id": 4487,
+    "type": "text",
+    "content": "/FcInvis@Xxx_ocho_bot",
+    "fileId": null,
+    "from": {
+      "id": 7642928002,
+      "is_bot": false,
+      "first_name": "ᴛʜᴀʀɪɴᴅᴜ",
+      "last_name": "ᴅɪʟʀᴜ",
+      "username": "crazydafa"
+    },
+    "chatId": -1002580756171,
+    "date": 1763948007
   }
 ]
