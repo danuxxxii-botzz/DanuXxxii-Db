@@ -390,5 +390,19 @@
     },
     "chatId": -1002580756171,
     "date": 1763948598
+  },
+  {
+    "id": 4539,
+    "type": "text",
+    "content": "වැලා ඉන්නෙ පකො😒",
+    "fileId": null,
+    "from": {
+      "id": 7654343701,
+      "is_bot": false,
+      "first_name": "YESHAN 💬",
+      "username": "Devil_Ezz_19"
+    },
+    "chatId": -1002580756171,
+    "date": 1763948623
   }
 ]
