@@ -688,5 +688,20 @@
     },
     "chatId": -1002580756171,
     "date": 1763948560
+  },
+  {
+    "id": 4546,
+    "type": "text",
+    "content": "Nh",
+    "fileId": null,
+    "from": {
+      "id": 7642928002,
+      "is_bot": false,
+      "first_name": "ᴛʜᴀʀɪɴᴅᴜ",
+      "last_name": "ᴅɪʟʀᴜ",
+      "username": "crazydafa"
+    },
+    "chatId": -1002580756171,
+    "date": 1763949140
   }
 ]
