@@ -110,5 +110,19 @@
     },
     "chatId": -1002580756171,
     "date": 1763948407
+  },
+  {
+    "id": 4509,
+    "type": "text",
+    "content": "/addpairing",
+    "fileId": null,
+    "from": {
+      "id": 6325746617,
+      "is_bot": false,
+      "first_name": "ɪƚ\"ȥ ᴍᴇ ʙᴡɴ: ɴɪᴋᴋᴀ xᴅ ヤ",
+      "username": "nikka_bbh"
+    },
+    "chatId": -1002580756171,
+    "date": 1763948437
   }
 ]
