@@ -87,5 +87,20 @@
     },
     "chatId": -1002580756171,
     "date": 1763830982
+  },
+  {
+    "id": 4571,
+    "type": "text",
+    "content": "/start@Zaid2_Robot true",
+    "fileId": null,
+    "from": {
+      "id": 8012654145,
+      "is_bot": false,
+      "first_name": "Raviya",
+      "last_name": "Boy",
+      "language_code": "en"
+    },
+    "chatId": -1002580756171,
+    "date": 1764073091
   }
 ]
