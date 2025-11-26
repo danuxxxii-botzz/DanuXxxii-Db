@@ -96,5 +96,19 @@
     },
     "chatId": -1002580756171,
     "date": 1764122525
+  },
+  {
+    "id": 4591,
+    "type": "text",
+    "content": "Amma thaththa gawa ganna epa 🚫",
+    "fileId": null,
+    "from": {
+      "id": 7594819587,
+      "is_bot": false,
+      "first_name": "CYBER LAKIYA",
+      "username": "cyberlakiya"
+    },
+    "chatId": -1002580756171,
+    "date": 1764122723
   }
 ]
