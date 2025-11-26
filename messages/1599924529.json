@@ -124,5 +124,19 @@
     },
     "chatId": -1003375002650,
     "date": 1764122649
+  },
+  {
+    "id": 37,
+    "type": "text",
+    "content": "SELL \n\nRESELLER PANEL PRIV/PUBLIC\nADP PRIV/PUBLIC\nPT PANEL PRIV/PUBLIC\nOWN PANEL PRIV/PUBLIC\nCEO PANEL PRIV/PUBLIC\n\nUBOT BULAN/PERMA \nSELES UBOT\nADMIN UBOT\nOWNER UBOT\n\nALL BOLEH NEGO DAN MENYESUAIKAN BUDGET LU + MURMER\nprice? pv aja ke @firmanxdmoddd\nLIMIT: @limitbyfirman_bot",
+    "fileId": null,
+    "from": {
+      "id": 1599924529,
+      "is_bot": false,
+      "first_name": "FIRMAN",
+      "username": "firmanxdmoddd"
+    },
+    "chatId": -1003375002650,
+    "date": 1764132598
   }
 ]
