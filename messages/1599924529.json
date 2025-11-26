@@ -152,5 +152,19 @@
     },
     "chatId": -1003375002650,
     "date": 1764177769
+  },
+  {
+    "id": 39,
+    "type": "text",
+    "content": "admin ubot 10k -10\n\nbenefit?\nbisa share tanpa 1²\nbisa share jualan lu tanpa ribet\ndapet room public\ndapet ubot pastinya\ndll\n\nbuy : @LolipoXR\nlimit : @limitbyfirman_bot",
+    "fileId": null,
+    "from": {
+      "id": 1599924529,
+      "is_bot": false,
+      "first_name": "FIRMAN",
+      "username": "firmanxdmoddd"
+    },
+    "chatId": -1003375002650,
+    "date": 1764178367
   }
 ]
