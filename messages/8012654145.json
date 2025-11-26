@@ -117,5 +117,20 @@
     },
     "chatId": -1002580756171,
     "date": 1764130727
+  },
+  {
+    "id": 4598,
+    "type": "text",
+    "content": "/pair@crashxd_bot",
+    "fileId": null,
+    "from": {
+      "id": 8012654145,
+      "is_bot": false,
+      "first_name": "Raviya",
+      "last_name": "Boy",
+      "language_code": "en"
+    },
+    "chatId": -1002580756171,
+    "date": 1764130743
   }
 ]
