@@ -73,5 +73,20 @@
     },
     "chatId": -1002580756171,
     "date": 1764074680
+  },
+  {
+    "id": 4577,
+    "type": "text",
+    "content": "ඔ",
+    "fileId": null,
+    "from": {
+      "id": 8098344824,
+      "is_bot": false,
+      "first_name": "H",
+      "last_name": "B",
+      "language_code": "en"
+    },
+    "chatId": -1002580756171,
+    "date": 1764121894
   }
 ]
