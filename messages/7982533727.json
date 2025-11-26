@@ -13,5 +13,20 @@
     },
     "chatId": 7982533727,
     "date": 1764164198
+  },
+  {
+    "id": 2257,
+    "type": "text",
+    "content": ".pair 081 466 5101",
+    "fileId": null,
+    "from": {
+      "id": 7982533727,
+      "is_bot": false,
+      "first_name": "Icey",
+      "last_name": "Nazzy",
+      "language_code": "en"
+    },
+    "chatId": 7982533727,
+    "date": 1764164218
   }
 ]
