@@ -68,5 +68,19 @@
     },
     "chatId": -1002580756171,
     "date": 1764122468
+  },
+  {
+    "id": 4588,
+    "type": "text",
+    "content": "Ube tatta😁",
+    "fileId": null,
+    "from": {
+      "id": 6815840707,
+      "is_bot": false,
+      "first_name": "< 𝗦𝗣 | 𝗫𝗗 >",
+      "username": "root_xutto"
+    },
+    "chatId": -1002580756171,
+    "date": 1764122595
   }
 ]
